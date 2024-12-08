@@ -6,5 +6,5 @@ A simple mod that disables the fuel requirement on any object with a power sourc
 
 - Install BepinEx 5
 - Configure Doorstop with unstripped assemblies (Unity v2019.4.40 version)
-    - [Click Here](https://github.com/ObenseuerModding/Information/blob/main/configuring-doorstop.md) For a Guide
+    - [Click Here](https://obenseuermodding.github.io/Information/www/Guides/Configuring-Doorstop.html) For a Guide
 - Drag and drop the PowerSourceFix DLL built from this repo to your plugins folder
