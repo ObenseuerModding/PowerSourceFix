@@ -1,6 +1,6 @@
 # Power Source Fix
 
-> [!NOTE]
+> [!IMPORTANT]
 > This mod is not needed in the latest game version, the devs have patched the issue it used to fix
 
 A simple mod that disables the fuel requirement on any object with a power source that has no slots (IE is broken and won't work anymore)
