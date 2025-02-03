@@ -1,10 +1,11 @@
 # Power Source Fix
 
+> [!NOTE]
+> This mod is not needed in the latest game version, the devs have patched the issue it used to fix
+
 A simple mod that disables the fuel requirement on any object with a power source that has no slots (IE is broken and won't work anymore)
 
 ## Installing
 
 - Install BepinEx 5
-- Configure Doorstop with unstripped assemblies (Unity v2019.4.40 version)
-    - [Click Here](https://obenseuermodding.github.io/Information/www/Guides/Configuring-Doorstop.html) For a Guide
 - Drag and drop the PowerSourceFix DLL built from this repo to your plugins folder
